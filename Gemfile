@@ -6,7 +6,12 @@ ruby '2.6.1'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.2', '>= 6.0.2.2'
 gem 'sqlite3', '~> 1.4'
+<<<<<<< HEAD
 gem 'puma', '~> 4.1'
+=======
+# Use Puma as the app server
+gem 'puma', '~> 4.3'
+>>>>>>> cecaa5c39db1704541892c92f25d9fe93f7e5d96
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.7'
 # Use Redis adapter to run Action Cable in production
